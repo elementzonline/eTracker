@@ -1,0 +1,10 @@
+Revision 0 :
+
+Revision 1:
+ 
+ 	Changes made:
+
+ 			1. Receive buffer index length bug fixed
+ 			2. GPS activation moved to the start of the code
+ 			3. LEd indications for network registration, valid gps data and server response are added
+ 			
